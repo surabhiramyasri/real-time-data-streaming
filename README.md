@@ -1,16 +1,16 @@
-**# Real-Time Data Streaming**
+ Real-Time Data Streaming
 
 
 
-**## Project Overview**
+Project Overview
 
 
 
-**This project demonstrates real-time data streaming using Python. It continuously generates weather-related data such as temperature, humidity, and rainfall at regular intervals.**
+This project demonstrates real-time data streaming using Python. It continuously generates weather-related data such as temperature, humidity, and rainfall at regular intervals.
 
 
 
-**## Objectives**
+** Objectives**
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-**## Technologies Used**
+**Technologies Used**
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-**## Data Fields**
+** Data Fields**
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-**## How to Run**
+**How to Run**
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-**## Conclusion**
+**Conclusion**
 
 
 
