@@ -10,7 +10,7 @@ This project demonstrates real-time data streaming using Python. It continuously
 
 
 
-** Objectives**
+ Objectives
 
 
 
@@ -60,11 +60,11 @@ This project demonstrates real-time data streaming using Python. It continuously
 
 
 
-**```bash**
+**bash**
 
 **python real\_time\_streaming.py**
 
-**```**
+****
 
 
 
@@ -72,7 +72,7 @@ This project demonstrates real-time data streaming using Python. It continuously
 
 
 
-**## Output**
+**Output**
 
 
 
